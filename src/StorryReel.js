@@ -7,8 +7,8 @@ function StorryReel() {
 		<div className='storyReel'>
 			<Story
 				image="https://scontent.fevn6-3.fna.fbcdn.net/v/t1.6435-9/89750478_2903005566456940_4005386663734804480_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=84a396&_nc_ohc=TIa_NImx_LoAX-6ooEu&_nc_ht=scontent.fevn6-3.fna&oh=00_AT8IA-S26G7HdKZjP3fVHEK7-zXRUtWHNfvk4ekn2I6KSw&oe=624B7D6F"
-				profileSrc="https://media-exp1.licdn.com/dms/image/C5103AQEBve2Os8_1Ag/profile-displayphoto-shrink_800_800/0/1516869986449?e=1652313600&v=beta&t=Ny5kgoHIFS5vYWxxcUPBht4OC4rtoLg1q3w2h226iP4"
-				title="Henry Gev"
+				profileSrc={"https://scontent.fevn6-2.fna.fbcdn.net/v/t39.30808-6/222038540_4320906311299641_8017470832213243533_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Oip7sTc_fgIAX_esbcL&_nc_ht=scontent.fevn6-2.fna&oh=00_AT_dLtKZxIu-CI0IfWgjqWnksXK0yTgNoJcclXumvFbqiQ&oe=62338953"}
+				title="Maria Gevorgyan"
 			/>
 			<Story
 				image="https://images.unsplash.com/photo-1646309227081-070e22335a92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8dG93SlpGc2twR2d8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
